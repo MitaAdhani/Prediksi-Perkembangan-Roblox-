@@ -1,5 +1,5 @@
 # 📌 Title Project
-**Prediksi Perkembangan Roblox**
+**Perkembangan Roblox Berdasarkan Analisis Sentimen dan Tren Review Google Play Menggunakan IBM Granite AI**
 
 Analisis ulasan & tren untuk memahami persepsi pengguna serta menyusun proyeksi pertumbuhan ekosistem Roblox.
 
