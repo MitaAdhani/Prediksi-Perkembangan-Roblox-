@@ -14,7 +14,6 @@ Proyek ini mengeksplorasi data ulasan terkait Roblox untuk:
 
 Repositori ini berisi *notebook* Jupyter untuk eksperimen dan sebuah berkas dataset mentah (Excel).
 
-> Catatan: Silakan jalankan notebook untuk mereproduksi grafik, tabel, dan ringkasan metrik.
 
 ---
 
@@ -22,7 +21,6 @@ Repositori ini berisi *notebook* Jupyter untuk eksperimen dan sebuah berkas data
 - 📥 **Dataset (Excel):** [`ROBLOX_REVIEWS.xls`](https://github.com/MitaAdhani/Prediksi-Perkembangan-Roblox-/blob/master/ROBLOX_REVIEWS.xls)
 - 🔗 **Raw (direct download):** https://www.kaggle.com/datasets/bwandowando/322k-roblox-app-google-store-reviews?resource=download
 
-> Perbarui tautan jika struktur folder/branch berubah.
 
 ---
 
@@ -33,11 +31,6 @@ Ringkasan berikut adalah draft *template* hasil. Perbarui dengan angka/temuan da
 - 🧵 **Topik utama:** _isi: tema yang sering muncul—mis. kreativitas di Roblox Studio, komunitas, performa/bug, keamanan anak_.
 - 📈 **Arah tren:** _isi: naik/turun berdasarkan volume ulasan & rerata rating per periode_.
 - 🧩 **Implikasi produk:** _isi: peluang peningkatan—mis. moderasi, edukasi orang tua, stabilitas & UX_.
-
-> Tips:
-> - Tambahkan grafik distribusi rating & *word cloud*.
-> - Buat tabel top keluhan & pujian.
-        - Jika ada model sentimen, tampilkan metrik (akurasi/F1) dan contoh salah-klasifikasi.
 
 ---
 
@@ -62,5 +55,3 @@ Bagaimana AI digunakan dalam proyek ini:
    Tampilkan *confusion matrix*/classification report (jika ada model) dan contoh ulasan yang salah klasifikasi untuk insight perbaikan.
 
 ---
-
-> 🙌 **Saran lanjut**: Tambahkan bagian *How to Run* (requirements + cara eksekusi notebook) bila repo siap dipublikasikan ke audiens yang lebih luas.
