@@ -20,7 +20,7 @@ Repositori ini berisi *notebook* Jupyter untuk eksperimen dan sebuah berkas data
 
 # 🗂️ Raw Dataset Link
 - 📥 **Dataset (Excel):** [`ROBLOX_REVIEWS.xls`](https://github.com/MitaAdhani/Prediksi-Perkembangan-Roblox-/blob/master/ROBLOX_REVIEWS.xls)
-- 🔗 **Raw (direct download):** (https://www.kaggle.com/datasets/bwandowando/322k-roblox-app-google-store-reviews?resource=download)
+- 🔗 **Raw (direct download):** https://www.kaggle.com/datasets/bwandowando/322k-roblox-app-google-store-reviews?resource=download
 
 > Perbarui tautan jika struktur folder/branch berubah.
 
